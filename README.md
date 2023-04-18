@@ -1,1 +1,1 @@
-# Zestund-state-management-basics
+# Zustand-state-management-basics
